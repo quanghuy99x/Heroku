@@ -12,14 +12,14 @@
 			<div id="menu">
 				<ul>
 				<li><a href="index.php" title="HOME PAGE">HOME PAGE</a></li>
-				<li><a href="introduce.php" title="INTRODUCE">INTRODUCE</a></li>
-				<li><a href="product.php" title="PRODUCT">PRODUCT</a></li>
-				<li><a href="news.php" title="NEWS">NEWS</a></li>
-				<li><a href="contact.php" title="CONTACT">CONTACT</a></li>	
+				<li><a href="introduce.php" title="INTRODUCE">LEGO</a></li>
+				<li><a href="product.php" title="PRODUCT">MOTORBIKE</a></li>
+				<li><a href="news.php" title="NEWS">FIGURE</a></li>
+				<li><a href="contact.php" title="CONTACT">DOLL</a></li>	
 			</ul>
 			</div>
 			<div id="help">
-				<a href="help.php" title="HELP">HELP</a>
+				<a href="help.php" title="HELP">ADMIN</a>
 			</div>
 		</div>
 		<div id="banner">
