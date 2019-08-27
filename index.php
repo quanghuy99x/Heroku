@@ -27,19 +27,19 @@
 		</div>
 		<div id="main">
                                 <div class="col-6">
-					<a> <img src="image/dochoi1.jpg" width="500px"/></a>
+					<a> <img src="image/dochoi1.jpg" width="250px"/></a>
 					<h3>do choi 1</h3>
 				</div>
 				<div class="col-6">
-					<a> <img src="image/dochoi1.jpg" width="500px" /></a>
+					<a> <img src="image/dochoi1.jpg" width="250px" /></a>
 					<h3>do choi 2</h3>
 				</div>
 				<div class="col-6">
-					<a> <img src="image/dochoi1.jpg" width="500px" /></a>
+					<a> <img src="image/dochoi1.jpg" width="250px" /></a>
 					<h3>do choi 3</h3>
 				</div>
 				<div class="col-6">
-					<a> <img src="image/dochoi1.jpg" width="500px" /></a>
+					<a> <img src="image/dochoi1.jpg" width="250px" /></a>
 					<h3>do choi 4</h3>
 				</div>
 			</div>
