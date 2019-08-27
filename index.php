@@ -23,7 +23,7 @@
 			</div>
 		</div>
 		<div id="banner">
-			<img src="image/banner2.png" alt="DO CHOI" width="1000px" />
+			<img src="image/a3.jpg" alt="DO CHOI" width="1000px" />
 		</div>
 		<div id="main">
 		          
