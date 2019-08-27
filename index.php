@@ -2,13 +2,7 @@
 <html>
 	<head>
 		<title>ATN SHOP</title>
-		<link rel="stylesheet" type="text/css" href="home.css">
-		<style>
-		.container{
-                width: 100%;
-                margin: 0 auto;
-                 } 
-		</style>		
+		<link rel="stylesheet" type="text/css" href="home.css">		
 	</head>
 	<body>
 		<div id="menu_top">
@@ -32,21 +26,20 @@
 			<img src="image/a3.jpg" alt="DO CHOI" width="1000px" />
 		</div>
 		<div id="main">
-		           <div class="container">
-                                     <center><img src="images/dochoi1.jpg"></center>
-					<a> <img src="image/dochoi1.jpg" width="220px"/></a>
+                                <div class="col-6">
+					<a> <img src="image/dochoi1.jpg" width="500px"/></a>
 					<h3>do choi 1</h3>
 				</div>
 				<div class="col-6">
-					<a img src="image/dochoi1.jpg" width="220px" /></a>
+					<a> <img src="image/dochoi1.jpg" width="500px" /></a>
 					<h3>do choi 2</h3>
 				</div>
 				<div class="col-6">
-					<a img src="image/dochoi1.jpg" width="220px" /></a>
+					<a> <img src="image/dochoi1.jpg" width="500px" /></a>
 					<h3>do choi 3</h3>
 				</div>
 				<div class="col-6">
-					<a img src="image/dochoi1.jpg" width="220px" /></a>
+					<a> <img src="image/dochoi1.jpg" width="500px" /></a>
 					<h3>do choi 4</h3>
 				</div>
 			</div>
