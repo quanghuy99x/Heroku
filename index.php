@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>ATN SHOP</title>
-		<link rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="home.css">
 	</head>
 	<body>
 		<div id="menu_top">
@@ -12,7 +12,10 @@
 			<div id="menu">
 				<ul>
 				<li><a href="index.php" title="HOME PAGE">HOME PAGE</a></li>
-				<li><a href="product.php" title="PRODUCT">PRODUCT</a></li>	
+				<li><a href="introduce.php" title="INTRODUCE">INTRODUCE</a></li>
+				<li><a href="product.php" title="PRODUCT">PRODUCT</a></li>
+				<li><a href="news.php" title="NEWS">NEWS</a></li>
+				<li><a href="contact.php" title="CONTACT">CONTACT</a></li>	
 			</ul>
 			</div>
 			<div id="help">
@@ -45,7 +48,7 @@
 				 <?php }} 
 
 		       ?>
-
+ 
 			</div>
 		</div>
 		<div id="footer">
