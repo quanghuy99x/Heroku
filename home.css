@@ -71,7 +71,7 @@ body {
 #menu_top #MWS {
 	width: 200px;
 	float: left;
-	color: #FFF;
+	color: pink;
 	text-align: center;
 	text-decoration: none;
 	line-height: 100px;
@@ -104,7 +104,7 @@ body {
 	text-decoration: none;
 	display: block;
 	line-height: 100px;
-	color: #FFF;
+	color: pink;
 	padding: 0px 20px 0px 20px;
 }
 
