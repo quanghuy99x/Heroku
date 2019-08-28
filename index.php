@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<title>ATN TOY SHOP</title>
 		<link rel="stylesheet" type="text/css" href="home.css">
 	</head>
 	<body>
