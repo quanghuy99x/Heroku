@@ -43,9 +43,8 @@
 			</div>
 		</div>
 		<div id="footer">
-			<div class="row">
-				<p>WELCOME TO ATN SHOP</p>
-			</div>
+			<div class="w3-center "</div>
+                 <p><b>Associated with</b></br><img style="width: 100px; height:100px ;" src="images/a5.jpg" alt=""> <img style="width: 100px; height:100px ; background-color:#FFFFFF" src="images/a6.jpg" alt=""><img style="width: 100px; height:100px ; background-color:#FFFFFF" src="images/a7.jpg" alt=""></p>
 		</div>
 	</body>
 </html>
