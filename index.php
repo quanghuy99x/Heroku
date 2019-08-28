@@ -8,10 +8,7 @@
 			<div id="menu">
 				<ul>
 				<li><a href="index.php" title="HOME PAGE">HOME PAGE</a></li>
-				<li><a href="product.php">PRODUCT</a></li>
-				<li><a href="product.php"></a></li>
-				<li><a href="news.php"></a></li>
-				<li><a href="contact.php"></a></li>	
+				<li><a href="product.php">PRODUCT</a></li>	
 			</ul>
 			</div>
 		</div>
