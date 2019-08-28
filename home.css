@@ -58,14 +58,9 @@ body {
 }
 
 #footer {
-	background: #000;
-	width: 1000px;
-	text-align: center;
-	height: 100px;
-	color: #FFF;
-	margin: 0px;
-	padding-top: 30px;
-	float: left;
+	width: 100%;
+                height: 100px;
+                background-color: white;
 }
 
 #menu_top #MWS {
