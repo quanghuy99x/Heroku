@@ -18,9 +18,6 @@
 				<li><a href="contact.php"></a></li>	
 			</ul>
 			</div>
-			<div id="help">
-				<a href="help.php" title="HELP">HELP</a>
-			</div>
 		</div>
 		<div id="banner">
 			<img src="image/a3.jpg" alt="DO CHOI" width="1000px" />
