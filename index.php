@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="home.css">
+		<link rel="stylesheet" type="text/css" >
 	</head>
 	<body>
 		<div id="menu_top">
-			<div id="ATN">
-				<a href="index.php" title="HOME PAGE">ATN SHOP</a>
-			</div>
 			<div id="menu">
 				<ul>
 				<li><a href="index.php" title="HOME PAGE">HOME PAGE</a></li>
