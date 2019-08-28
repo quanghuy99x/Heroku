@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>ATN SHOP</title>
-		<link rel="stylesheet" type="text/css" href="home.css">
+		
 	</head>
 	<body>
 		<div id="menu_top">
