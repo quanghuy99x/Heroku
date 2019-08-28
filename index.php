@@ -12,10 +12,10 @@
 			<div id="menu">
 				<ul>
 				<li><a href="index.php" title="HOME PAGE">HOME PAGE</a></li>
-				<li><a href="introduce.php" title="INTRODUCE">PRODUCT</a></li>
-				<li><a href="product.php" title="PRODUCT"></a></li>
-				<li><a href="news.php" title="NEWS"></a></li>
-				<li><a href="contact.php" title="CONTACT"></a></li>	
+				<li><a href="product.php">PRODUCT</a></li>
+				<li><a href="product.php"></a></li>
+				<li><a href="news.php"></a></li>
+				<li><a href="contact.php"></a></li>	
 			</ul>
 			</div>
 			<div id="help">
