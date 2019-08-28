@@ -43,8 +43,9 @@
 			</div>
 		</div>
 		<div id="footer">
-			<div class="w3-center "</div>
-                 <p><b>Associated with</b></br><img style="width: 100px; height:100px ;" src="images/a5.jpg" alt=""> <img style="width: 100px; height:100px ; background-color:#FFFFFF" src="images/a6.jpg" alt=""><img style="width: 100px; height:100px ; background-color:#FFFFFF" src="images/a7.jpg" alt=""></p>
-		</div>
+			<div class="row">
+				<p>THANKS FOR VISTING ATN TOY SHOP</p>
+			</div>
+		</div>	
 	</body>
 </html>
