@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>ATN SHOP</title>
-		<link rel="stylesheet" type="text/css" href="home.css">		
+		<link rel="stylesheet" type="text/css" href="home.css">
 	</head>
 	<body>
 		<div id="menu_top">
@@ -12,38 +12,21 @@
 			<div id="menu">
 				<ul>
 				<li><a href="index.php" title="HOME PAGE">HOME PAGE</a></li>
-				<li><a href="introduce.php" title="INTRODUCE">LEGO</a></li>
-				<li><a href="product.php" title="PRODUCT">MOTORBIKE</a></li>
-				<li><a href="news.php" title="NEWS">FIGURE</a></li>
-				<li><a href="contact.php" title="CONTACT">DOLL</a></li>	
+				<li><a href="introduce.php" title="INTRODUCE">INTRODUCE</a></li>
+				<li><a href="product.php" title="PRODUCT">PRODUCT</a></li>
+				<li><a href="news.php" title="NEWS">NEWS</a></li>
+				<li><a href="contact.php" title="CONTACT">CONTACT</a></li>	
 			</ul>
 			</div>
 			<div id="help">
-				<a href="help.php" title="HELP">ADMIN</a>
+				<a href="help.php" title="HELP">HELP</a>
 			</div>
 		</div>
 		<div id="banner">
-			<img src="image/a3.jpg" alt="DO CHOI" width="1000px" />
+			<img src="image/banner2.png" alt="DO CHOI" width="1000px" />
 		</div>
 		<div id="main">
-                                <div class="col-6">
-					<a> <img src="image/toy1.jpg" width="250px"/></a>
-					<h3>do choi 1</h3>
-				</div>
-				<div class="col-6">
-					<a> <img src="image/toy2.jpg" width="250px" /></a>
-					<h3>do choi 2</h3>
-				</div>
-				<div class="col-6">
-					<a> <img src="image/toy3.jpg" width="250px" /></a>
-					<h3>do choi 3</h3>
-				</div>
-				<div class="col-6">
-					<a> <img src="image/toy4.jpg" width="250px" /></a>
-					<h3>do choi 4</h3>
-				</div>
-			</div>
-
+		          
 			<div id="DO CHOI">
 
 				<?php
